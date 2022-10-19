@@ -1,0 +1,83 @@
+html,
+body{
+    height:100%;
+    font-size: 1rem;
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    background-color:#fcf9f7;
+}
+.gradient{
+    background: rgb(56,1,102);
+    background: linear-gradient(
+    90deg,
+     rgba(56,1,102,1) 0%,
+      rgba(109,1,209,1) 35%,
+       rgba(24,49,212,1) 100%
+       );
+}
+
+.page-header{
+    margin-top:4rem;
+    font-size:1.25rem;
+    color:#A020F0;
+    
+
+}
+.feature{
+    color:#A020F0;
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.feature ul li{
+    padding-left: 2rem;
+    background-image: url();
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+.icon{
+    color:#A020F0;
+    height:5rem;
+    width:5rem;
+    font-size:1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.gallery {
+    color: #A020F0;
+    background-color: rgb(56,1,102);
+    background: linear-gradient(90deg, rgba(56,1,102,1) 0%, rgba(109,1,209,1) 35%, rgba(24,49,212,1) 100%);
+}
+.gallery img {
+    border-radius:5%;
+}
+.services{
+    color: #A020F0;
+}
+ footer{
+    color:#A020F0;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+ }
+ a{
+    color:rgb(22, 10, 10);
+    text-decoration: none;
+ }
+ .contract {
+    color:#4b0675;
+    background-color:#A020F0;
+ }
+ .icons {
+    background-color: #A020F0;
+ }
+ .cars {
+    background-color: #A020F0;
+ }
+ 
